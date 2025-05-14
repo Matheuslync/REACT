@@ -25,7 +25,7 @@ function App() {
           <h1>Projetos</h1>
         </section>
         <section className={style.s4} id='s4'>
-          <h1><Contato></Contato></h1>
+          <h1>Contato</h1>
         </section>
       </main>
     </>
